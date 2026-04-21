@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "astar"
+version = "0.1.0"
+description = ""
+authors = ["flora <flora_chen2021@163.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyscript = "^0.3.3"
+proceso = "^0.0.17"
+cyaron = "^0.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

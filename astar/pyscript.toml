@@ -1,0 +1,11 @@
+name = "astar"
+description = ""
+type = "app"
+author_name = ""
+author_email = ""
+version = "latest"
+
+packages = ["proceso"]
+
+[[fetch]]
+files = ['graph.py', 'search.py', 'point.py']
